@@ -4,6 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#fab324"
     tools:context="sadiul.com.gittrywithteam.ShuvoActivity">
+
 
 </android.support.constraint.ConstraintLayout>
