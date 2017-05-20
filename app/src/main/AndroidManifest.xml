@@ -18,7 +18,7 @@
         </activity>
         <activity android:name=".ShuvoActivity" />
         <activity android:name=".Rezaul" />
-        <activity android:name=".Monir"></activity>
+        <activity android:name=".Shamim"></activity>
     </application>
 
 </manifest>
