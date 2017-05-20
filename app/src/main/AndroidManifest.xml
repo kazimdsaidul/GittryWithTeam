@@ -18,7 +18,6 @@
         </activity>
         <activity android:name=".ShuvoActivity" />
         <activity android:name=".Rezaul" />
-        <activity android:name=".Jone"></activity>
         <activity android:name=".Shamim"></activity>
     </application>
 
